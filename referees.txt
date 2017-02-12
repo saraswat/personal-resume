@@ -1,0 +1,35 @@
+Sun Feb 10 07:55:05 2002
+
+Ugo Montanari
+Prakash Panangaden
+Rajeev Motwani
+Fernando Pereira
+Radha Jagadeesan
+Pascal van Hentenryck
+    
+Danny Bobrow
+Gregg Vesonder
+
+Ron Brachman
+Johan deKleer
+
+Others
+
+  Saumya Debray
+  Francesca Rossi, Professor, Deptt of Mathematics U of Padova
+  Manuel Hermenegildo
+
+  Seif Haridi
+  Samson Abramsky
+
+  Martin Rinard    
+  Michael Maher
+  Kim Marriott
+
+  K Apt?
+  Brian Cantwell Smith?
+
+  Tony Hoare
+  Arvind?
+
+  

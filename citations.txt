@@ -1,0 +1,90 @@
+111 Padma Raghavan/Prabhakar Raghavan confusion
+
+??? Raj Acharya
+?? Tom La Porta
+2204 Palamidessi
+4014 Mary Jane Irwin
+5393 J Yen
+5478 Rangachar Kasturi
+6767 Ali Hurson
+8065 Plassman
+9318 Chita Das
+9382 Jesse Barlow
+?? William Higgins 
+W Miller (confusion)
+D Miller (confusion)
+
+Selected list of Professors of Computer Science at 
+U.S. Universities in the area of Programming Languages
+
+Subset of the list of 10,000 most cited authors in Computer Science,
+as computed by the Citeseer ACI (May 2003), using the documents in the
+CiteSeer database
+http://citeseer.nj.nec.com/allcited.html
+
+Also listed is the university affiliated with the author, and the US
+News and World Report 2002 [ranking] of the university.
+
+Listed in (parens) are the highest number of citations for a paper by
+the author. (Books not included.)
+
+037  John Mitchell(31), Stanford[1]
+101  Bob Harper(93) CMU[1]
+195  Paul Hudak (416) Yale.[25]
+217  Barbara Liskov(119), MIT.[1]
+291  Andrew Appel(91) Princeton.[9]
+344  Pascal van Hentenryck(160), Brown.[14]
+377  Jay Misra(142) UT Austin.[7]
+438  David Gelernter(158) Yale.[25]
+472  Frank Pfenning(158) CMU.[1]
+577  Benjamin Pierce(60), U Penn.[17]
+621  Gul Agha(77), UI Urbana-Champaign.[5]
+700  Alex Aiken(130), UC Berkeley[]
+
+709  Saraswat, Penn State.[35]
+
+784  Gail Kaiser, Columbia.[20]
+859  William Pugh, U Maryland.[]
+969  Susan Horwitz, U Wisconsin-Madison.[10]
+1055 Jens Palsberg, Purdue.[20]
+1181 Rance Cleaveland, North Carolina State U[49]
+1223 Barbara Ryder, Rutgers.[29]
+1355 Robert Constable, Cornell.[6]
+1361 Alan Borning, U Washington Seattle.[7]
+1427 David Plaisted, U North Carolina.[17]
+1503 Carlo Zaniolo, UCLA.[15]
+1524 Leon Sterling, Case Western Reserve.[67]
+1915 Gopalan Nadathur* U Minnesota.[35] (* may be Assoc Prof)
+
+2018 Saumya Debray, U Arizona.[35]
+2082 Keshav Pingali, Cornell.[6]
+2184 Bob Paige, NYU.[29]
+2224 Martin Rinard, MIT.[1]
+2517 Rajeev Bagrodia, UCLA.[15]
+2699 Mary Lou Soffa, U Pittsburgh.[49]
+4023 Michael O'Donnell, U Chicago.[35]
+4794 Gary Leavens, Iowa State U [60]
+5498 Richard LeBlanc, Georgia Instt Technology [12]
+5505 Corky Cartwright, Rice U [17]
+5695 Jan Prins, U North Carolina[17]
+7024 Gary Lindstrom, U Utah.[29]
+7262 Elliott Moss, U Amherst.[25]
+
+Duke -- no Professor in PL
+Michigan -- no Professor in PL
+Michigan State -- no Professor in PL
+Ohio State -- no Professor in PL
+
+481 M Felleisen Northeastern U
+493 M Wand Northeastern U
+1851 Will Clinger, Northeastern U
+
+John Hopkins: Scott Smith (confusion)
+
+Iowa
+SUNY Stonybrook -- David Warren (confusion)
+
+The Saraswat paper "Semantic foundations of concurrent constraint
+programming" is 14th on the (automatically created) list of most cited
+papers in the CiteSeer database in the area of Theory/Logic
+(http://citeseer.nj.nec.com/Theory/Logic)

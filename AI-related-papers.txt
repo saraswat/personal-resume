@@ -1,0 +1,134 @@
+AAAI papers
+
+Andrea Loreggia, Horst Samulowitz, Yuri Malitsky, Vijay Saraswat "Deep
+Learning for Algorithm Portfolios", AAAI 2016.  
+
+Danny Munera, Daniel Diaz, Salvador Abreu, Francesca Rossi, Vijay
+Saraswat, Philippe Codognet,  "Solving Hard Stable Matching Problems
+via Local Search and Cooperative Parallelization", AAAI 2015.
+
+Olivier Raiman, Johan de Kleer, Vijay Saraswat, Mark Shirley
+"Characterizing Non-intermittent faults", AAAI 1991
+
+Vijay Saraswat "CP as a general-purpose constraint-language", AAAI 1987.
+
+RELATED PAPERS
+
+Cristina Cornelio, Andrea Loreggia, Vijay Saraswat "Logical
+Conditional Preference Theories", MPREF workshop, IJCAI 2015. 
+
+Umberto Grandi, Andrea Loreggia, Francesca Rossi and Vijay Saraswat. A
+Borda Count for Collective Sentiment Analysis. Annals of Mathematics
+and Artificial Intelligence, special issue on ``Preferences and
+Computational Social Choice'', 2015. 
+
+Parallel Combinatorial Optimization with Decision Diagrams
+David Bergman, Andre Cire, Ashish Sabharwal, Horst Samulowitz, Vijay
+Saraswat, Willem-Jan van Hoeve (2014)  CPAIOR-2014. 11th International
+Conference on Integration of AI and OR Techniques in Constraint
+Programming, Cork, Ireland, May 2014.  
+
+Umberto Grandi, Andrea Loreggia, Francesca Rossi and Vijay
+Saraswat. From Sentiment Analysis to Preference Aggregation. In
+Proceedings of the 2014 International Symposium on Artificial
+Intelligence and Mathematics (ISAIM-2014), 2014.  
+
+SatX10: A Scalable Plug&Play Parallel SAT Framework 
+Bard Bloom, David Grove, Benjamin Herta, Vijay Saraswat, Ashish
+Sabharwal, and Horst Samulowitz (2012).  Published at Proceedings of
+the 15th International Conference on Theory and Applications of
+Satisfiability Testing (SAT 2012)   
+
+Introduction. (Mary Dalrymple, Fernando Pereira, John Lamping, Vijay
+Saraswat) In \textit{Semantics And Syntax in Lexical Functional
+Grammar: The Resource Logic Approach} edited by Mary Dalrymple. The
+MIT Press, 1999. 
+
+LFG qua Concurrent Constraint Programming. (Vijay Saraswat) In
+    \textit{ Semantics And Syntax in Lexical Functional Grammar: The
+    Resource Logic Approach} edited by Mary Dalrymple. The MIT Press, 1999.
+
+Relating Resource-based semantics to categorial semantics. (Mary
+    Dalrymple, Vineet Gupta, John Lamping, and Vijay Saraswat) In
+   \textit{ Semantics And Syntax in Lexical Functional Grammar: The Resource
+    Logic Approach} edited by Mary Dalrymple. The MIT Press, 1999.
+
+A Deductive Account of Quantification in LFG.  (Mary
+    Dalrymple, John Lamping, Fernando Pereira, and Vijay
+    Saraswat) In \textit{ Quantifiers, Deduction, and Context}, ed.\
+    Makoto Kanazawa, Christopher J.~Pi\~{n}\'{o}n, and Henriette
+    de~Swart.  Stanford, California: Center for the Study of
+    Language and Information.  1996. 
+
+Andrew Kehler, Mary Dalrymple, John Lamping, and Vijay Saraswat
+    The Semantics of Resource Sharing in Lexical-Functional Grammar.  
+    Proceedings of the 1995 Meeting of the
+    European Chapter of the Association for Computational
+    Linguistics, Dublin, Ireland. March 1995.
+
+Yumi Iwasaki, Adam Farquhar, Vijay Saraswat, Daniel Bobrow, Vineet Gupta
+Modeling time in hybrid systems: How fast is "instantaneous"? IJCAI 1995
+
+Vineet Gupta and Vijay Saraswat and Peter Struss, ``A model
+  of a photocopier paper path'', Proceedings of the 2nd IJCAI
+  Workshop on Engineering Problems for Qualitative Reasoning,
+  August 1995.
+
+Hao-Chi Wong and Markus P.J. Fromherz and Vineet Gupta and Vijay
+  A. Saraswat. ``Control-based programming of electro-mechanical
+  controllers.'' Proceedings of the IJCAI Workshop on Executable
+  Temporal Logics, Montreal, August 1995.
+
+Markus Fromherz and Vijay Saraswat   ``Model-based
+  computing: using concurrent constraint programming for modeling
+  and model compilation'', U. Montanari  and F. Rossi (ed.)
+  Principles and Practices of Constraint Programming, CP'95,
+  Springer-Verlag, LNCS 976, Sep 1995, pp. 629--635. 
+  
+Markus Fromherz and Vijay Saraswat ``Model-based
+  computing: constructing constraint-based software for
+  electro-mechanical systems'' Practical Applications of
+  Constraint Technology, Paris, France, April 1995, pp. 63-66.
+
+Markus Fromherz, David Bell, Daniel Bobrow, Brian
+  Falkenhainer, Vijay Saraswat and Mark Shirley ``\textsc{ Rapper}:
+  The Copier Modeling Project'', Working Papers of the Eight
+  International Workshop on Qualitative Reasoning about physical
+  systems'', pages 1-12, June 1994. 
+
+Mary Dalrymple, John Lamping, Fernando Pereira, and Vijay Saraswat
+    Intensional Verbs Without Type-Raising or Lexical Ambiguity.
+    In Logic, Language and Computation, volume 1, ed. Jerry
+    Seligman and Dag Westerstaahl. Stanford, California:
+    Center for the Study of Language and Information.  1996.
+    Also in Proceedings of the Conference on
+    Information-Oriented Approaches to Logic, Language and
+    Computation/Fourth Conference on Situation Theory and its 
+    Applications, Saint Mary's College of California, Moraga,
+    California. June 1994.
+
+Olivier Raiman, Johan de Kleer, Vijay Saraswat "Critical Reasoning",
+IJCAI 1993 
+
+Dalrymple, Mary, John Lamping, and Vijay Saraswat. 
+    LFG semantics via constraints. In Proceedings of the Sixth
+    Meeting of the European ACL, University of Utrecht, April.
+    European Chapter of the Association for Computational
+    Linguistics, 1993.
+    
+Dalrymple, Mary, Angie Hinrichs, John Lamping, and Vijay Saraswat.
+    The resource logic of complex predicate interpretation.
+    In Proceedings of the 1993 Republic of China Computational
+    Linguistics Conference (ROCLING), Hsitou National Park,
+    Taiwan, September. Computational Linguistics Society of R.O.C.
+
+P. Codognet and V. Saraswat, ``Abduction in Concurrent
+  Constraint Languages'', Proceedings of the First Compulog Network
+  meeting on Logic Programming and Artificial Intelligence, London,
+  U.K., 1992.
+
+Saraswat, V.A. and de Kleer, J. and Raimon, O.
+  ``Contributions to the theory of diagnosis'', International
+  Workshop on Principles of Diagnosis, Stanford University, July
+  1990.
+

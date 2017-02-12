@@ -1,0 +1,35 @@
+Abstract of Statement of Research Interest
+
+I want to settle down as systems faculty, building (through
+Internet-wide open source collaboration) mass computing systems intended
+to be used by millions of people, and using these to explore fundamental
+social, systems and theoretical issues in the design of provably secure
+globally distributed systems. In particular, I expect the systems I
+build to fundamentally deepen and enrich our understanding of identity,
+privacy, security, property rights, exchange, ownership, governance, and
+agents (bots) in cyberspace. I expect to build them using advanced
+computational techniques such as proof-carrying code and object
+accessibility reasoning as discussed in our STOC 2000 paper,  the work
+of Kearns et al and others on MOO bots using learning and natural
+language interaction, work on multimodal (speech and visual) interfaces
+etc. Possibly there is some programming language work involved (e.g.
+based on E) -- though only if I can be convinced that this is going to
+be a very attractive approach to building provably secure globally
+distributed systems.
+
+My initial target "customer segment" for such work is likely to continue
+to be middle and high schools across the world -- providing
+infrastructure to build collaborative, networked school-based,
+locally-governed communities. Creating open source systems is critical
+to my approach -- I want to foster an approach where there are a large
+number of developers of such systems (e.g. students, teachers in
+school), and there is a framework through which they can share and reuse
+their work.
+
+As much as I want to contribute personally to this area, I want to
+establish this area as a significant academic research area in its own
+right. And that means collaborating widely with systems, theoretical
+computer science and social science (political science/governmental
+studies/anthropology) faculty, in this country, and globally ... and
+also getting a book out in the next 1-5 years about the basic ideas.
+

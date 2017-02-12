@@ -1,0 +1,422 @@
+Wed Feb 01 06:24:31 EST 2017
+
+X10 
+  Doug Lea  (ok)
+  David Grove (ok)
+  Guy Blelloch
+  Vivek Sarkar
+
+CCP
+
+  Seif Haridi   (ok)
+  Radha Jagadeesan (ok)
+  Prakash Panangaden (ok)
+  Catuscia Palamidessi (ok)
+
+Natural language work
+
+  Johan de Kleer (ok)
+  Fernando Pereira (ok)
+  Mary Dalrymple (ok)
+
+
+U California
+
+IIT professor positions
+
+---
+Wrote to:
+  USC -- Paul Rosenbloom
+  Cornell Tech -- Dan Huttenlocher, Greg Morisset
+  U Penn -- Alur
+  Berkeley -- Malik
+  SRI -- Pat Lincoln 
+
+Talked to:
+  Martin Rinard (he will write if needed).
+
+  Sridhar Mahadevan
+
+Talked /wrote for info about positions
+
+Vineet -- dinner 5p or after Tue.
+Katherine -- dinner Wed.
+(Thu open)
+
+Actions: 
+* Johan
+* Ron
+
+Alexa McDonald -- IBM Res HR for Karasick
+Leadership team -- Rajesh Nishthala .. FB
+
+senior technical contributors.
+
+Applications to:
+ Facebook -- Kanika Ahuja (recruiter) ... Maged Michael, Rajesh Nishthala, Peter O'Hearn
+
+ Apple -- Russ Salakhutdinov
+
+ Uber  -- ?
+
+ Google 
+  -- somebody in NY? Igor, David , John Field
+  -- Vineet 
+
+ Bloomberg -- Anju
+
+ Elemental Cognition -- David Ferucci
+
+To do: 
+ American Express -- Amol Ghoting
+
+------- drafts of message to Arvind
+I write to you in extraordinary circumstances.
+
+Eight months ago in May, Karasick took over Cognitive Computing. He made Lisa Amini the Director for Knowledge & Reasoning, and asked me to  report to Michael Witbrock, a new hire from Cyc with development experience but limited research experience. I was reluctant, knowing Lisa's managerial shortcomings. He said I would be part of the K&R leadership team, and that Witbrock's group would work to implement my research vision for professional assistants.  
+
+That has not happened.  
+
+Lisa very soon reverted to her old Directorial, top-down, tactical decision-making style with highy controlled information flows.  The ground-breaking platform we need to build, bets we need to make, strategic thinking we neeed to deploy -- cannot be done when the director insists on making decisions based on her own limited understanding of the subject, without leveraging her senior people.
+
+We clashed repeatedly. It even came to pass that in the beginning of October, I unilaterally took over the Geico reasoning project because I saw her decision-making leading the team in a disastrous direction. I worked directly with John Gunnels and team, designed the technical approach, wrote a lot of code and worked with the rest of the team to pull together a working semantic parsing system ("Rainy Day"). We demoed to Karasick before Christmas -- and he (and even Lisa) complimented us on the work and urged us to continue.
+
+After the demo, I told Karasick that it was a mistake to have me reporting into Lisa's organization. By that time, I had also realized that there was a deep line of attack -- based on work coming out of U Edinburgh and in part on work I did at PARC 25 years ago -- that would allow us to leverage unsupervised techniques to extract deep structure (e.g. rules and constraints) from natural language text. I have worked intensively over the last month to flesh this out ... I know now exactly what to  build. 
+
+I proposed to Karasick that I have a small team of people to work on this big-impact longer-term project, reporting to him. 
+
+Karasick has gone silent on me. 
+
+In the light of these circumstances, I find it impossible to continue as part of Karasick's organization. 
+
+I would like to request a transfer to Nagui's team with immediate effect. 
+With Deepak / Horst / Anton, there is a lot of need for the kind of work in reasoning and natural language understanding that I do. Nagui interviewed me in 2003 when I came to IBM Research and wanted me to join his team -- I think the time has come now. 
+
+It seems that Lisa has determined that I need to be placed on an "action plan". I ask if you can review this decision, and if it makes sense, approve my transfer to Nagui and let him manage this. 
+
+It is clear to me now that Karasick's attempt at "a leadership team" 
+
+But in an extraordinary turn of events, last Friday Witbrock started insisting that I must have an "obligatory" performance feedback meeting with him on Friday, using words in person to me that I found shocking and threatening. 
+
+ -- but in the meantime Lisa has systematically cut me out of all information flows, and taken on presentation resposibilities to external customers that I had hitherto. 
+
+It was clear to me that 
+
+Karasick has gone silent
+
+
+
+
+
+
+
+This style does not work for me. I have a deep understanding of this space (reasoning, natural language semantics and what is needed for legal reasoning) and cannot work at *her* rate and pace of understanding -- particularly when the crying need of the hour is for us to build a ground-breaking platform in (compliance) reasoning that requires deep insights and strategic thinking. 
+
+I care about doing great science, and building real systems that work and give us an edge. 
+
+Indeed her closed decision-making and information-controlling style has not worked in the past with many other senior researchers who, in some cases, eventually left the company. 
+
+The crying need for IBM Research is to recapture our leadership in AI,
+focus on big AI goals of central interest to the company, and deliver
+pioneering research results that help build a reputation that attracts
+great people here. This has been the big thrust of my work for the
+last year. 
+
+This cannot be done through tactical decision making with people who
+have a neophyte's understanding of the underlying research issues. 
+
+
+Matters reached such a pass that in early October I unilaterally took
+over a Reasoning project that she had asked John Gunnels to lead. 
+
+
+This style does not work for senior technical leaders 
+with who she has
+consistently had difficulties in the past. We clashed repeatedly on my
+desire to focus now on strategic research, building up a long-term
+shared view of research goals, and not planning our work based on the
+immediate BD development goals. 
+
+Witbrock is treading water with his group with no technical
+accomplishments since May.  
+
+I was
+
+controlling, tactical style 
+
+
+I was reluctant to do this since I already had experienced
+Lisa's controlling, closed minded, tactical management style. Karasick
+said I would be part of the leadership team for Lisa's Knowledge &
+Reasoning directorate, that Witbrock's group would implement my
+research vision for profession-quality assistants. 
+
+Lisa does not have a deep understanding of AI or a strategic
+vision. She does not have the skills to learn from senior technical
+leaders, or rely on their judgement and technical leadership. 
+I butted heads with her repeatedly -- my repeated asks for long-term
+research plans, for strategic thinking went nowhere. 
+
+
+Very poor organizational skills. Running habitually late, important
+tasks left undone, no strategic view of where we are headed. 
+
+and 
+
+
+I was reluctant to do this since I alread 
+
+
+Karasick said "trust me". 
+
+Tue Feb 07 15:48:30 EST 2017
+
+there are open positions .. grow to 21/23 by the end of the year
+4 groups
+-- NLP infrastructure for the entire company
+millions of tweets, news stoires, govt docs, analysts reports
+
+NLP infastructure... uniform way of oteknizing in any lang, syntatically parsing...
+dependency parsing ...> home cooking..
+universal dependendies.
+
+-- platform ... dep parse here Michael Collins students building out 
+now neural nets, not CRF based depdnency parsing
+now trying to improve perf
+
+-- extraction from financial and econimic ... tables / text (subsecond, msec latency to process an entire release, pullint ouf 
+99.5% precision, as much recall as possible.. one group table, one group text
+
+merge and acquire deal...
+
+-- classifiation tasks on text analytics. neural nets and other techniques for 
+use NNs as much as possible...
+... libraries..choose a few.. 100+ people pracicing ML...now looking at a few 
+
+one location ... three aisles behind.. 5 to an aisle..
+
+4 aisles.
+
+high precision, very fast, low recall then go to high
+
+what do clients want to see... bloomberg has a relationship with clients.
+get to know product, maintenance is taking up time..this is a good candidate for automation.
+
+u can suggest... budget planning session, roadmap for next year... things broken down quarter to quarter. 
+
+starting point -- other peoples's paper. 
+
+hired people coming from very high reputed lasb.s know what works and what is not.
+
+data distributesions are different..tweak to make things work...not geared towards precision.
+
+infrastructure / sw engg practices are v good. always been low latency, high fault toeralnce, distributed computing. just happens magically. 
+
+how 
+Tensor Flow
+
+ Dynet
+
+common API
+
+Other things...>
+....> 
+ Data Science team ... search and relevance.
+ machine learning that deals with a variety of products.
+
+ higher analysis built on top of NL processing.
+
+sit in thew news domain..but also Bloomberg CTO's office. reusable across the company.
+
+platform i discussed CTO's office...
+governance
+litigation - BLaw
+analyst reports -- that dont fall under news
+
+Bloomberg also puts out lot of news stories
+also aggregate content
+
+both aggregated...
+
+(a) pay a lot of thought to ....product first/last, lot of coding..s/w engg position...
+C++ / python (Fortran and C libraries) code that PK... C++, python, Java, Spark, Apache
+
+(b) 
+
+-----------
+David McQueeney 
+The technical term is "performance improvement plan". Maybe Lisa
+deliberately chose "action plan" as a different term.
+
+
+performane problem --- strategic decision turns into a peformance problem
+
+generalized experience:
+
+  v common for sr mgr and execs ... someone in the group with
+  tremendous asset, deep intellect, unique knowledge, someone you
+  respect deeply.
+
+  if there is a criticism with that person's performance, there is a
+  tendency to be obtuse with the person 
+
+  rather than clear... u feel guilty criticizing someone u admire .. u
+  r not on the same train we r on.. 
+
+  we need u to get on the train ...or u do somethign else..
+
+  ... people dont get to the second, because they dont want to lose u.
+
+  Dave: too nice. not ready to have heads roll. Karasick is fairly
+  clear almost to the point of being blunt. 
+
+  there is a serious problem here -- agenda is different from what u
+  want to pursue.. it may be hard for them to come out to tell u
+  because they respect u.
+
+  i have made that mistake before... when u finally have an honest
+  convo, they 
+
+my history and reputation is incredible... 
+
+it would make Lisa hesitate. (not Karasick.)
+that is why there might be a fog.
+
+cannot accomplish anything till u find out what is the issue.
+
+here is the problem. very bad management practice... exporting a
+problem to someone else is very bad practice. because the problem is
+likely to repeat itself.
+
+v poor mgmt practice to export.
+
+Michael and Lisa -- lets hammer this home lets get it straightened
+out.
+
+-- we are all big enought to air our opinions.
+-- doing to change the day.
+
+MSK will have an honest convo.
+that will be exactly the right thing to do.
+
+Alexa --
+employee -- goes in establish goals, update at any time in the
+process.
+
+once a quarter ... employee and mgmt team are connecting...goals are
+active etc. 
+
+connecting with them, aligned, course correction should happen if
+necessary. running into blockers.
+
+try not to make it formal. it is a way for employee and mgmt team to
+keep aligned.
+
+opportunity for employee and mgmt team to reflect on.. across five
+dimensions.
+
+unlike PBC process, these are dev conversations. get feedback,
+holistic f/b, also from peers. as well as clients u support and work
+with. all that is taken into account when communicating ur evaluation.
+
+face to face, or over the phone ... great opportunity to get synced up
+and aligned. 
+
+manager completes 
+ratings across all five
+and summary paragraph... 
+then manager verbally communicates.
+then send written.
+
+checkpoint -- on going, evergreen f/b tool.
+
+-- i am not supposed to get anything in writing, until i have a convo
+   with the manager. allow us to share ideas, get alignment, what went
+   well, and set the course for this year for success.
+
+action plan...> 
+
+  performance improvement plan.
+
+  there is misalignment. whatever i am doing is not up to what they
+  think needs to be delivered.
+
+part of this u can create an action plan or a performance improvement
+plan
+
+  that structured feedback... why are their gaps between the two of u.
+
+  not just the execution, but how you interact with others and the
+  behaviors.
+
+  action plan ... 
+
+  the two of u to connect.
+
+  Alexa: I believe Lisa is using it informally.
+
+  and my willingess
+
+  be open to it -- see what they have to say. 
+
+  what ownership or what actions ... what would i do or not do.
+
+treat people with respect. open to feedback. checkpoint process is
+about. also tell you when we have a performance challenge..from a
+delivery perspective or a behavioral challenge.  
+
+if it is a formal performance improvement plan ... there will be a
+time bound around it.
+
+it could be 30 or 60 days. we dont do 90 any more.
+
+ -- complete the checkpoint process.
+    get that resolved. here what they have to say.
+
+    see what the next steps aer.
+
+ -- then set up a technical meeting.
+
+what are my options
+
+  - stay and make this work
+
+  - if they go into a PiP .... cannot go to another group. stay with
+    the group, or ask the group if they would be open to transfering
+    to another team.
+
+  - leave IBM
+ 
+... 2-3 and 4-5
+
+
+-------------------------------
+Calendar 8 Feb
+2p PT: Dave Ferucci will call my cell.
+
+---
+
+Elemental Cognition is completely separate being financed by
+Bridgewater Associates.
+
+Separate effort. Hosted at Bridgewater.
+
+Dave arrived at Bridgewater Associates. 
+
+2016 -- wanted to work on what his passion was.
+
+Bridgewater proposed a deal. That he stay there to help finish the
+project. They would enable him to create a new project, completely
+independent, intellectual property etc. EC started in this way. 
+
+there is no commercial product we are going to build, revenues, #
+users. 
+
+ultimate objective is not to be a unicorn. to do something that nobody
+thinks is possible to do. push AI research. 
+
+same spirit that Jeopardy ran. It was possible to do things that we
+didnt believe was possible. Research agenda for AI. 
+
+Next steps in AI. 
+
