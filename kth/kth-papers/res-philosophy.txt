@@ -1,0 +1,43 @@
+I had already come to the conclusion that in the practice of computing, where we have so much latitude for making a mess of it, 
+mathematical elegance is not a dispensable luxury, but a matter of life and death.” [“My hopes of computing science” (EWD 709)]
+
+For me, the first challenge for computing science is to discover how to maintain order in a finite, but very large, discrete universe that is
+intricately intertwined. And a second, but not less important challenge is how to mould what you have achieved in solving the first
+problem, into a teachable discipline: it does not suffice to hone your own intellect (that will join you in your grave), you must teach
+others how to hone theirs. The more you concentrate on these two challenges, the clearer you will see that they are only two sides of
+the same coin: teaching yourself is discovering what is teachable.” [“My hopes of computing science” (EWD 709)]
+
+A lecture by E Y Shapiro at CMU in Jan 1983 set me on the course for my PhD research. I was struck by the apparent simplicity and elegance with which he was able to describe complex concurrent programming idioms in logic (Concurrent Prolog). My interest in the study of logic and concurrency was encouraged by my advisor Dana Scott. However, I found the "?" annotation he introduced complex, and, in fact, ill-defined. 
+
+I defined a simplified variation (the "!" or wait annotation) which used the ideas of one-way unification (matching). 
+
+
+Privileged that my interest was encouraged by my advisor, Dana Scott. 
+
+constraints. It took many readings and then Maher's paper made it clear that the underlying logical interpretation of the wait annotation was in fact entailment, the constraint generalization of one-way unification. 
+
+Linear logic
+
+Higher order linear logic framework.
+
+This has inspired a large number of papers. concurrent constraint programming. See survey by Palamidessi.
+
+
+Natural language work
+
+Understand a complex space, get to the essence, describe, implement and use a clean design.
+
+
+Discrete time.
+
+Defaults.
+
+Natural to pursue continuous time. Hybrid programmming. HCC implementation. later to be used in systems biology. 
+
+X10
+Two basic ideas. We cannot hide the latency costs in a distributed shared memory, we must surface it to the programmer. Further, we must support asynchrony pervasively. 
+
+Additionally, in X10 we decided to stick with a modern OO notions (as captured in the design of Java), but augmented with depednent types. 
+
+Programmer must 
+APGAS
